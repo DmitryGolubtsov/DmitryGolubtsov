@@ -22,7 +22,7 @@
 <div id="header" align="left">
 
 
-  ### 👨‍💻Обо мне:
+  ### 👨‍💻 Обо мне:
   Я Аналитик Данных с техническим образованием.📈
   
 - Мне важно, чтобы моя работа и мои решения приносили пользу
@@ -37,7 +37,7 @@
 
 ---
 
-  ### 🛠️Мой стек технологий:
+  ### 🛠️ Мой стек технологий:
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=yellow&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
