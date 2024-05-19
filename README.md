@@ -19,8 +19,10 @@
 <h1>
  Привет, меня зовут Дмитрий! 👋
 </h1>
+<div id="header" align="left">
 
-<h2>👨‍💻Обо мне:</h2>
+
+  ### 👨‍💻Обо мне:
   Я Аналитик Данных с техническим образованием.📈
   
 - Мне важно, чтобы моя работа и мои решения приносили пользу
@@ -31,7 +33,11 @@
 
 - Стремлюсь развиваться в сфере аналитики, в свободное время прохожу курсы и решаю дополнительные задачи
 
-<h2>🛠️Мой стек технологий:<h2>
+<div id="header" align="left">
+
+---
+
+  ### 🛠️Мой стек технологий:
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=yellow&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
@@ -43,11 +49,16 @@
   <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Excel-white?style=for-the-badge&logo=microsoftexcel&logoColor=darkgreen"/>&nbsp;
+  <img src="https://img.shields.io/badge/Excel-white?logo=microsoftexcel&logoColor=darkgreen&style=for-the-badge" title="Excel" alt="Excel" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/GIT-white?logo=git&logoColor=red&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=apacheairflow&logoColor=black&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
 
+---
+
 
   ### 📚 Мои проекты:
 
+
+
+---
