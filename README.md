@@ -63,5 +63,6 @@
 |[Анализ продуктовых метрик мобильного приложения](https://github.com/DmitryGolubtsov/gamedev_analytics)|Разбивка пользователей на когорты по дате регистрации, анализ результатов А/B-теста, t-тест и Хи-квадрат для определения значимости изменений в ARPPU и Conversion Rate, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Seaborn** **Requests**|
 |[Анализ продуктовых метрик сервиса по доставке с использованием когортного анализа](https://github.com/DmitryGolubtsov/delivery_service_analytics)|Разбивка пользователей на когорты по дате регистрации и покупки, рассчет и анализ MAU, ROMI, Conversion Rate.|**Pandas** **Seaborn** **Requests**|
 |[Статистический анализ метрик приложения для знакомств](https://github.com/DmitryGolubtsov/dating_app_analytics)|Анализ результатов А/B-теста, статистический анализ метрик с помощью t-критерия Стьюдента и Хи-квадрат|**Pandas** **Scipy** **Seaborn** **Requests**|
+|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/dmitry.golubtsov/viz/Vizual_project_17167984888130/Dashboard)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**|
 
 ---
