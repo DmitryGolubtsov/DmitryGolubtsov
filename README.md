@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgzOHgyOTh0azRnNjE4c3JiZTAweGpiemtzZ2xyM2R0bnV5NXR5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uyoXx0qpUWfQs/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgzOHgyOTh0azRnNjE4c3JiZTAweGpiemtzZ2xyM2R0bnV5NXR5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uyoXx0qpUWfQs/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
 <a href="https://t.me/golubtsov_dmitry">
